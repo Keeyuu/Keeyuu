@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I started my journey as an internet backend programmer, but over time, I've transitioned into a full-stack developer. Lately, I've been diving into the exciting world of game development with Unreal Engine's gameplay scripting. I have a passion for coding and have explored a variety of programming languages, including C++, Rust, Go, TypeScript, Lua, Python, and C#. In my current role, I primarily work with Go for backend development and occasionally dabble in frontend development using React.
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keeyuu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 <span >  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" /> <img height="46" width="46" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/go.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/rust.svg" /> </span>
